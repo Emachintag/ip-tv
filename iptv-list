@@ -1,0 +1,29 @@
+#EXTM3U
+
+# Türkiye Kanalları
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" group-title="Türkiye",TRT 1
+https://trt1-live.mediatriple.net/trt1/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" group-title="Türkiye",TRT 2
+https://trt2-live.mediatriple.net/trt2/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-name="TRT Spor" group-title="Türkiye",TRT Spor
+https://trtspor-live.mediatriple.net/trtspor/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT4.tr" tvg-name="TRT Haber" group-title="Türkiye",TRT Haber
+https://trthaber-live.mediatriple.net/trthaber/playlist.m3u8
+
+# Azerbaycan Kanalları
+#EXTINF:-1 tvg-id="AZTV.az" tvg-name="AzTV" group-title="Azerbaycan",AzTV
+http://aztv.az/az/live/aztv
+#EXTINF:-1 tvg-id="İctimai.az" tvg-name="İctimai TV" group-title="Azerbaycan",İctimai TV
+http://www.ictimai.az/az/live
+
+# ABD Kanalları
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" group-title="ABD",NASA TV
+https://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" group-title="ABD",ABC News
+https://abcnews.go.com/abcnews/live
+
+# Belgesel ve Tamir Temalı Kanallar
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW Documentary" group-title="Belgesel",DW Documentary
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" group-title="Belgesel",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/live/playlist.m3u8
