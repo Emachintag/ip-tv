@@ -1,0 +1,59 @@
+#EXTM3U
+
+# Kategori: Türkiye Kanalları
+#EXTINF:-1 tvg-id="tr-trt1" tvg-name="TRT 1" group-title="Türkiye",TRT 1
+http://iptv-source.example.com/turkey/trt1
+#EXTINF:-1 tvg-id="tr-trtspor" tvg-name="TRT Spor" group-title="Türkiye",TRT Spor
+http://iptv-source.example.com/turkey/trtspor
+#EXTINF:-1 tvg-id="tr-atv" tvg-name="ATV" group-title="Türkiye",ATV
+http://iptv-source.example.com/turkey/atv
+#EXTINF:-1 tvg-id="tr-show" tvg-name="Show TV" group-title="Türkiye",Show TV
+http://iptv-source.example.com/turkey/show
+#EXTINF:-1 tvg-id="tr-fox" tvg-name="FOX Türkiye" group-title="Türkiye",FOX Türkiye
+http://iptv-source.example.com/turkey/fox
+#EXTINF:-1 tvg-id="tr-star" tvg-name="Star TV" group-title="Türkiye",Star TV
+http://iptv-source.example.com/turkey/star
+#EXTINF:-1 tvg-id="tr-kanal7" tvg-name="Kanal 7" group-title="Türkiye",Kanal 7
+http://iptv-source.example.com/turkey/kanal7
+#EXTINF:-1 tvg-id="tr-haber" tvg-name="Haber Türk" group-title="Türkiye",Haber Türk
+http://iptv-source.example.com/turkey/haberturk
+
+# Kategori: Azerbaycan Kanalları
+#EXTINF:-1 tvg-id="az-aztv" tvg-name="AzTV" group-title="Azerbaycan",AzTV
+http://iptv-source.example.com/azerbaijan/aztv
+#EXTINF:-1 tvg-id="az-xezer" tvg-name="Xəzər TV" group-title="Azerbaycan",Xəzər TV
+http://iptv-source.example.com/azerbaijan/xezer
+#EXTINF:-1 tvg-id="az-ictimai" tvg-name="İctimai TV" group-title="Azerbaycan",İctimai TV
+http://iptv-source.example.com/azerbaijan/ictimai
+#EXTINF:-1 tvg-id="az-space" tvg-name="Space TV" group-title="Azerbaycan",Space TV
+http://iptv-source.example.com/azerbaijan/space
+#EXTINF:-1 tvg-id="az-leader" tvg-name="Lider TV" group-title="Azerbaycan",Lider TV
+http://iptv-source.example.com/azerbaijan/lider
+#EXTINF:-1 tvg-id="az-cbc" tvg-name="CBC Azerbaycan" group-title="Azerbaycan",CBC Azerbaycan
+http://iptv-source.example.com/azerbaijan/cbc
+
+# Kategori: ABD Kanalları
+#EXTINF:-1 tvg-id="us-cnn" tvg-name="CNN" group-title="ABD",CNN
+http://iptv-source.example.com/usa/cnn
+#EXTINF:-1 tvg-id="us-foxnews" tvg-name="FOX News" group-title="ABD",FOX News
+http://iptv-source.example.com/usa/foxnews
+#EXTINF:-1 tvg-id="us-nbc" tvg-name="NBC" group-title="ABD",NBC
+http://iptv-source.example.com/usa/nbc
+#EXTINF:-1 tvg-id="us-abc" tvg-name="ABC" group-title="ABD",ABC
+http://iptv-source.example.com/usa/abc
+#EXTINF:-1 tvg-id="us-cbs" tvg-name="CBS" group-title="ABD",CBS
+http://iptv-source.example.com/usa/cbs
+#EXTINF:-1 tvg-id="us-hbo" tvg-name="HBO" group-title="ABD",HBO
+http://iptv-source.example.com/usa/hbo
+
+# Kategori: Belgeseller ve Tamir Temalı Kanallar
+#EXTINF:-1 tvg-id="doc-tlc" tvg-name="TLC" group-title="Belgeseller",TLC
+http://iptv-source.example.com/docs/tlc
+#EXTINF:-1 tvg-id="doc-discovery" tvg-name="Discovery Channel" group-title="Belgeseller",Discovery Channel
+http://iptv-source.example.com/docs/discovery
+#EXTINF:-1 tvg-id="doc-history" tvg-name="History Channel" group-title="Belgeseller",History Channel
+http://iptv-source.example.com/docs/history
+#EXTINF:-1 tvg-id="doc-nationalgeo" tvg-name="National Geographic" group-title="Belgeseller",National Geographic
+http://iptv-source.example.com/docs/natgeo
+#EXTINF:-1 tvg-id="doc-carchannel" tvg-name="Car Restorers" group-title="Belgeseller",Car Restorers
+http://iptv-source.example.com/docs/cars
